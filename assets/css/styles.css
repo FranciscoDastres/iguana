@@ -57,7 +57,7 @@ main .img-main-iguana{
     display: block; 
     /* <img src="/assets/img/bg-header.jpg" class="imagen" alt="Principal1"> */
     background: #000000;
-    background-image: url("/assets/img/bg-header.jpg"); 
+    background-image: url("assets/img/bg-header.jpg"); 
     background-repeat: no-repeat; 
     background-size: auto;
 }
